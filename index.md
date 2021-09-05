@@ -14,11 +14,11 @@ onzekerheid is mijn enige hindernis.
 - Verdiepen in GIT & GITHUB voor beter begrip en kennis betreffende passende utilisatie-vormen.  
 
 ```javascript
-console.log("De theorie gaat best snel, als 't echt niet meer lukt trek ik aan de bel")
+console.log("Waarom typ ik hier console.log?")
 
-# Header 1
-## Header 2
-### Header 3
+1. # Header 1
+2. ## Header 2
+3. ### Header 3
 
 - Bulleted
 - List
@@ -31,12 +31,11 @@ console.log("De theorie gaat best snel, als 't echt niet meer lukt trek ik aan d
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_Volgens mij wordt met de 3x '`' + javascript een venster gebouwd. De verschillende '#' staan voor de 'Headers'._
 
-### Jekyll Themes
+**even kijken of image toevoegen lukt** [Mooiplaatje](https://www.google.nl/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjGoRYCbnVDg&psig=AOvVaw12hXnKe31WfcI_HkGhIJro&ust=1630930275756000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDP7fDm5_ICFQAAAAAdAAAAABAD)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tjerkos/webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the IT-basics? Check out Joris: you can even hit him up after working hours! (not too often tho)
