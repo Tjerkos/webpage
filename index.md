@@ -7,9 +7,9 @@ die constant in verandering is.
 Dit maakt het spannend doch benauwend voor mij,
 onzekerheid is mijn enige hindernis. 
 
-### Markdown
+### Tjerk's kinderdromen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"This page intentionally left blank."
 
 ```markdown
 Syntax highlighted code block
