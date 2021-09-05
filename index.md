@@ -13,8 +13,8 @@ onzekerheid is mijn enige hindernis.
 - Meer kennis opdoen betreffende HTML adhv ytube pagina van Martijn.
 - Verdiepen in GIT & GITHUB voor beter begrip en kennis betreffende passende utilisatie-vormen.  
 
-```markdown
-Syntax highlighted code block
+```javascript
+console.log("De theorie gaat best snel, als 't echt niet meer lukt trek ik aan de bel")
 
 # Header 1
 ## Header 2
