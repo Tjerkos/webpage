@@ -7,9 +7,11 @@ die constant in verandering is.
 Dit maakt het spannend doch benauwend voor mij,
 onzekerheid is mijn enige hindernis. 
 
-### Tjerk's kinderdromen
+### Tjerk's leerdoelen voor komende week (week 36):
 
-"This page intentionally left blank."
+- Een beter concept krijgen over hoe HTML, CSS & JS fungeren als triumviraat.
+- Meer kennis opdoen betreffende HTML adhv ytube pagina van Martijn.
+- Verdiepen in GIT & GITHUB voor beter begrip en kennis betreffende passende utilisatie-vormen.  
 
 ```markdown
 Syntax highlighted code block
