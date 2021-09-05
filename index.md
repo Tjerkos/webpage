@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Tjerk's eerste GIT-implementatie-dingen!
 
-You can use the [editor on GitHub](https://github.com/Tjerkos/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Zoals je kan zien op mijn [Linkedin](https://www.linkedin.com/in/tjerk-eken-420/) heb ik nog weinig ervaring met IT / ICT-dingen. Dit is gelukkig niet erg, maar wel een beetje eng.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IT is een turbulenete wereld,
+die constant in verandering is.
+Dit maakt het spannend doch benauwend voor mij,
+onzekerheid is mijn enige hindernis. 
 
 ### Markdown
 
